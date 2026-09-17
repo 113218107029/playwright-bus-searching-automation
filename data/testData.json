@@ -1,0 +1,17 @@
+[
+  {
+    "From": "Chennai",
+    "To": "Kovilpatti",
+    "Date": "20-09-2026"
+  },
+  {
+    "From": "Chennai",
+    "To": "Madurai",
+    "Date": "21-09-2026"
+  },
+  {
+    "From": "Bangalore",
+    "To": "Chennai",
+    "Date": "22-09-2026"
+  }
+]
